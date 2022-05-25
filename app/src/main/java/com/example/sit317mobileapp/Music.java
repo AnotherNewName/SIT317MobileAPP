@@ -78,7 +78,7 @@ public class Music extends YouTubeBaseActivity {
         };
 
         //attempt to initialisation of the youtube player
-        youtubePlayerView.initialize("AIzaSyBNxtXpoXCmRvPqD3PwK812oJZQJ_f0gCM", InitializedListener);
+        youtubePlayerView.initialize("AIzaSyBb1j8IY7HAC2NIz6cxnXh5XEoUaLDq2_Y", InitializedListener);
     }
 
     private ArrayList<String> SetupVideos(){//setup the list view to show youtube links
